@@ -1,0 +1,5 @@
+env
+bharath-redshift_accessKeys.csv
+data_modeling/data_modeling_cassandra/data/*
+data_warehouse/datasets/*
+data_warehouse/dwh.cfg
